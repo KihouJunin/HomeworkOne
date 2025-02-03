@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+header {
+    background-color: azure;
+}
+
+nav {
+    background-color: beige;
+}
+
+main {
+    background-color: aliceblue;
+    font-size: 30px;
+}
+
+footer {
+    background-color: aqua;
+}
+
+li {
+    display: contents;
+    width: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+
+p {
+    height: fit-content;
+}
